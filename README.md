@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/vishrutgoyani" target="blank"><img src="https://img.shields.io/twitter/follow/vishrutgoyani?logo=twitter&style=for-the-badge" alt="vishrutgoyani" /></a> </p>
 
-- 🔭 I’m currently working on [AI Photo Curator](https://github.com/SweetD3v/AIPhotoCurator)
+- 🔭 I’m currently working on [Convo](https://github.com/SweetD3v/Convo)
 
 - 🌱 I’m currently learning **Kotlin & MVVM**
 
 - 📝 I regularly write articles on [Cool new APIs in Android and how to implement them.](https://medium.com/@vishrut.goyani9)
 
-- 💬 Ask me about **Android, Kotlin**
+- 💬 Ask me about **Android, Kotlin, Jetpack Compose**
 
 - 📫 How to reach me **vishrut.goyani9@gmail.com**
 
