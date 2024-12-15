@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishrutgoyani" target="blank"><img src="https://img.shields.io/twitter/follow/vishrutgoyani?logo=twitter&style=for-the-badge" alt="vishrutgoyani" /></a> </p>
 
-- 🔭 I’m currently working on [Photo Curator]([https://github.com/SweetD3v/Convo](https://github.com/SweetD3v/ImageLabelingCompose))
+- 🔭 I’m currently working on [Photo Curator](https://github.com/SweetD3v/ImageLabelingCompose)
 
 - 🌱 I’m currently learning **Kotlin & MVVM**
 
